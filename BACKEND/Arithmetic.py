@@ -1,0 +1,17 @@
+a=5
+b=2
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b)
+print(a//b)
+print(a/b)
+print(a%b)
+#ouput:-
+7
+3
+10
+25
+2
+2.5
+1

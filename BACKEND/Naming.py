@@ -1,0 +1,10 @@
+Name="Mounika"
+print(Name)
+Marks=87
+print(Marks)
+Status="pass"
+print(Status)
+#output:-
+Mounika
+87
+pass

@@ -1,0 +1,11 @@
+a=2
+b=3
+c=9
+d=10
+max1=a<b<c<d
+print(max1)
+max2=a>b<c<d
+print(max2)
+#ouput:-
+True
+False

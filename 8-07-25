@@ -1,0 +1,98 @@
+#Modules or Functions
+import math
+print(math)
+#output:-
+<module 'math' (built-in)>
+
+import math
+print(math.sqrt(36))
+output:-
+6.0
+print(8**0.5)
+#output:-
+2.8284271247461903
+
+print(math.pow(3,4))
+#output:-
+81.0
+print(3**2)
+#output:-
+9
+print(3**-2)
+#output:-
+0.1111111111111111
+
+print(math.floor(500.25))
+#output:-
+500
+print(500.25//1)
+#output:-
+500.0
+print(math.ceil(500.24))
+#output:-
+501
+
+import math
+num=45
+sq_rt=math.sqrt(num)
+fl_vl=math.floor(sq_rt)
+if sq_rt==fl_vl:
+    print("perfect square")
+else:
+    print("Not a perfect square")
+output:-
+ 49 perfect square
+output:-
+Not a perfect square
+
+num=-20
+if num<0:
+    print(num * -1)
+else:
+    print(num)
+#output:-
+20
+
+import math
+print(math.factorial(5))
+#output:-
+120
+
+import math
+print(math.gcd(3,7))
+#output:-
+1
+
+import math
+print(math.lcm(4,6))
+#output:-
+12
+
+import math
+print(math.log(5))
+#output:-
+1.6094379124341003
+
+import math
+print(math.sin(90))
+#output:-
+0.8939966636005579
+
+import math
+print(math.cos(45))
+#output:-
+0.5253219888177297
+
+#Variables
+import math
+print(math.pi)
+#output:-
+3.141592653589793
+
+print(math.e)
+#output:-
+2.718281828459045
+
+print(math.inf)
+#output:-
+inf
